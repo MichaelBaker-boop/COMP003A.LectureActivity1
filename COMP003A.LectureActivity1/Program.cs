@@ -13,7 +13,10 @@ namespace COMP003A.LectureActivity1
         // Main Level (Majority of Work) //
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Enter your name:"); //prompts user for input
+            string username = Console.ReadLine(); //take input and saves it as variable named username
+
+            Console.WriteLine("Hi " + username + ". My name is Michael.");
         }
     }
 }
