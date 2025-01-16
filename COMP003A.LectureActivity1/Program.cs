@@ -1,4 +1,10 @@
-﻿// Namespace Level //
+﻿/* 
+    Author: Michael Baker
+    Course: COMP003A
+    Faculty: Jonathan Cruz
+    Purpose: Basic Console App
+ */
+// Namespace Level //
 namespace COMP003A.LectureActivity1
 {
     // Class Level //
